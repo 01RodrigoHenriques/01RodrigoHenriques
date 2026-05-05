@@ -4,8 +4,9 @@
 
 **Cybersecurity & SecOps · Frontend Development · CTeSP Internship @ Guarda, Portugal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-henriques)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigohenriques00/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01RodrigoHenriques)
+
 
 </div>
 
@@ -17,7 +18,7 @@
 
 My internship spans the full security operations cycle — Blue Team monitoring and threat detection, firewall management, Red Team techniques, and penetration testing. I approach security with a hands-on mindset: I prefer to build, break, and document rather than study from the outside in.
 
-Alongside cybersecurity, I work as a **Frontend Developer** on [ImoHarmonia](https://imoharmonia.com) — an AI-powered urban planning compliance platform affiliated with Instituto Politécnico da Guarda and winner of **Poliempreende 2025**.
+Alongside cybersecurity, I worked as a **Frontend Developer** on [ImoHarmonia](https://imoharmonia.com) — an AI-powered urban planning compliance platform affiliated with Instituto Politécnico da Guarda and winner of **Poliempreende 2025**.
 
 ---
 
@@ -50,8 +51,9 @@ Alongside cybersecurity, I work as a **Frontend Developer** on [ImoHarmonia](htt
 
 <div align="center">
 
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=01RodrigoHenriques&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01RodrigoHenriques&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=01RodrigoHenriques&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01RodrigoHenriques&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
