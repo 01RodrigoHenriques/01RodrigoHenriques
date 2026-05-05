@@ -51,7 +51,7 @@ Alongside cybersecurity, I worked as a **Frontend Developer** on [ImoHarmonia](h
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=01RodrigoHenriques&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=01RodrigoHenriques&theme=aura)](https://git.io/streak-stats)
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01RodrigoHenriques&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
