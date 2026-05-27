@@ -1,72 +1,73 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,4,8&text=RODRIGO%20HENRIQUES&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CTeSP%20Cybersecurity%20Engineering&descSize=18&descAlignY=55&textBg=false"/>
 
-# Rodrigo Henriques
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=700&lines=%22Security+is+not+a+product%2C+but+a+process.%22;Blue+Team+%7C+SecOps+%7C+Red+Team;Building+things+%E2%80%94+then+breaking+them." alt="Typing SVG" />
+</p>
 
-**Cybersecurity & SecOps · Frontend Development · CTeSP Internship @ Guarda, Portugal**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigohenriques00/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01RodrigoHenriques)
-
-
-</div>
-
----
-
-## About
-
-21-year-old student completing a curricular CTeSP internship in **Cybersecurity and SecOps** in the Guarda region, Portugal (est. completion: late 2026).
-
-My internship spans the full security operations cycle — Blue Team monitoring and threat detection, firewall management, Red Team techniques, and penetration testing. I approach security with a hands-on mindset: I prefer to build, break, and document rather than study from the outside in.
-
-Alongside cybersecurity, I worked as a **Frontend Developer** on [ImoHarmonia](https://imoharmonia.com) — an AI-powered urban planning compliance platform affiliated with Instituto Politécnico da Guarda and winner of **Poliempreende 2025**.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=01RodrigoHenriques">
+    <img src="https://komarev.com/ghpvc/?username=01RodrigoHenriques&label=Profile%20views&color=555555&style=flat-square" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## Tech Stack
+## 🧠 Focus Areas
 
-**Cybersecurity**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+- **Cybersecurity** — Blue Team · SecOps · Red Team
+- **Frontend Development** — React · Next.js · TypeScript · Tailwind
+- **Full Stack** — from recon tools to production UIs
 
 ---
 
-## GitHub Stats
+## 🛠️ Languages & Tools
 
-<div align="center">
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+</p>
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01RodrigoHenriques&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+</p>
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01RodrigoHenriques&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
+<h3 align="center">Security</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</p>
 
 ---
 
-## Currently
+## 📊 GitHub Stats
 
-- Completing cybersecurity internship (Blue Team → Red Team phases)
-- Contributing to ImoHarmonia frontend
-- Exploring the intersection of offensive and defensive security
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=01RodrigoHenriques&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=01RodrigoHenriques&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=01RodrigoHenriques&langs_count=6&layout=compact&theme=github_dark&border_radius=10&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
-<sub>Guarda, Portugal · Open to connecting with professionals in cybersecurity and software development</sub>
-</div>
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://github.com/01RodrigoHenriques">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="GitHub" width="36" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rodrigo-henriques-b8b0032bb/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="36" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,4,8&section=footer"/>
