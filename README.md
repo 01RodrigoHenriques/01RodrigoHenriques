@@ -65,7 +65,7 @@
   <a href="https://github.com/01RodrigoHenriques">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="GitHub" width="36" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rodrigo-henriques-b8b0032bb/">
+  <a href="https://www.linkedin.com/in/rodrigohenriques00/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="36" />
   </a>
 </p>
