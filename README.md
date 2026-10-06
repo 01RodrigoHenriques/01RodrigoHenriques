@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,4,8&text=RODRIGO%20HENRIQUES&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CTeSP%20Cybersecurity%20Engineering&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,4,8&text=RODRIGO%20HENRIQUES&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CTeSP%20Cybersecurity%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=700&lines=%22Security+is+not+a+product%2C+but+a+process.%22;Blue+Team+%7C+SecOps+%7C+Red+Team;Building+things+%E2%80%94+then+breaking+them." alt="Typing SVG" />
